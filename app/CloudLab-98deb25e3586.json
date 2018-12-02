@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cloudlab-216610",
+  "private_key_id": "98deb25e3586cefa7163a7bf223c3f843e62907b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDB+VMEk9DXUU9Z\nA040eH8dXa9zUkOk01GQsNdj/L0qxHOZ62VyxzPCzIQsMGQzO5OmpTHVFl7d0EEE\nHY5BsK2q3aJTUWoc+rz1Df7MTmubg6IcJ8WjHZW9uTvyXQsJcrHDFBadBR56riYf\nckumt7rRI9GzwqyaiTTRF3rJNvqAXEtXCn1V2x7fbwGDSXlp5gMwDP8r3DOcOnNj\nl6D0rM8jcQkUgkXXzU9yPY7v7Jk8O3OYNGs9EVD+Kt/XJ9scsijN6NQR+ZLlKElm\n+CjQKuuzTDPszBxm2+Q5nFwcQmfHYjGduNpoLlElmyHphB31NMBT9vD4Kj/BgaEO\nwb6S5V1JAgMBAAECggEAAoeCCwxhPjIYX6NWigJUzNs6c+I5TLnF1aYGZGn0IPJZ\nsvmJ9fhUtwb8QRYdBhX/7yt/tNmdin5WsY2drh4tF9dJJ3D5wz+MCzlrNW0WEY3r\n3BYgreeK2uPnKsfiGT7eexonGVWhwPhYXlgIn1wx9gDBSB+lcj+QV1GkfRhX3HG/\niXt4aUP4Cy6KtVlyl72dO8XnFMAum+i/tTK0/n0wm7Q3R0Pnhe2ynWDr134ZwdXS\nGs43bTWM/OmzmHI/aF3ATr0lFLoah6ulFfWNOex1yoZ82vvPhVH73vkjvjedqiRm\nDHfYh0Fcd/dMGtVOA0A4rK2WBzevVYvaOb5BW2Rs6QKBgQDvq33dCGADLCf9+91b\nuJ2TlwkyputjAo1Su+V5Ps+OZltec+gqqwN1b+kuZhbY681up68dbsQ40tWjGWs9\nM47F3TSDug/duS1v+fE2b92EKXQLZ0kUX3JWnQsIxIaGHW17jnpTyxwUBHV2Ygz5\n0lK9kb2TzsatZRlcZ8bDSV9FPwKBgQDPMMSiTryI6THn6n0qbovYiya4d3eN5fVP\nJXmFwgxtPAZO8dCly57O5v6By2oL/rtpJizR30wt8QK/TrAULvmWfWhHOUJYSeJQ\nr5ixp/MbUyeDv22RfYD9iJRHH/M1RbYAhSInXUENvjCEzaesklYtzD7jCmfbba7y\nxzB8+eeTdwKBgQCL1zUOJdfXogkHodCrttGCjyrXuhs33wJUlruy/dofDUwclWaO\nls/i0tRstTZ5hUSNXxvHAZ1ORn5OtwMiZ5XTj1kXzxV42pZPcreyepz2gzVpfe9f\nCr3tGZ6ZlAml8T+zSxPHFoigiWV8GIPXtEeAwquptYmpHIcqqoaH5aTIAwKBgQCW\naUgGsHRMTEZvn5qYKEKbxIEqn4gKWmvYtlLfWL0eu9m0i/Y1tnmmqKkQ3vQwmw/A\nyPb2sU2jeHjPGzfWnzeQGaCPPDE+2PxUKPYH2u4w4xAno9vOKDdxVyqV68rq3J3B\nCOV/gEKO0Ih2kLnuHRo1CzaIKnC1Ko48L4Cy6dVFBwKBgQDKn6AtdiMwn2XPDBsj\niXTa9HI2tGt5iPwszjUBODSXtRzsZ6NuvZv6ILMVwENtl/K3h+PMIykyxyL7Xvw0\nGJtv5l6W/yg8PSn3Qu3pNwWclUXZK5HdSfwzVL5oNrOfC/QAop4dh+D/tUu0K5YK\n5B5qIeg2e8ahsRy5q8tJt1NA3g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "lab5-298@cloudlab-216610.iam.gserviceaccount.com",
+  "client_id": "100641194284650016445",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lab5-298%40cloudlab-216610.iam.gserviceaccount.com"
+}
